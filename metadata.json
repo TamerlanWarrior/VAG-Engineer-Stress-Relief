@@ -1,0 +1,6 @@
+{
+  "name": "VAG Антистресс: Бей Инженера!",
+  "description": "Интерактивная антистресс-игра для механиков и сотрудников дилерских станций VAG (VW, Audi, Škoda, SEAT, Porsche).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
